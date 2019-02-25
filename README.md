@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Kyial Asankojoeva
+HTML CSS Basics: https://www.codecademy.com/users/kyialjava/achievements
